@@ -1,0 +1,98 @@
+body
+{
+	background-image: url("img/header-bg.jpg");
+	background-size: 100%;
+}
+a
+{
+  text-shadow: 0 2px 1px rgba(0,0,0,0.5);
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+  margin: 0;
+  line-height: 28px;
+  font-family: Comic Sans MS;
+}
+table
+{
+	margin-top: 20em;
+}
+h1
+{
+text-shadow: 0 2px 1px rgba(0,0,0,0.5);
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+  margin: 0;
+  line-height: 28px;
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+h2
+{
+	text-align: center;
+text-shadow: 0 2px 1px rgba(0,0,0,0.5);
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+  margin: 0;
+  line-height: 28px;
+  font-family: Comic Sans MS;
+}
+h3
+{
+		text-align: center;
+text-shadow: 0 2px 1px rgba(0,0,0,0.5);
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+  margin: 0;
+  line-height: 28px;
+  font-family: Comic Sans MS;
+}
+h5
+{
+	text-align: center;
+	color: white;
+}
+ #footer {
+ 	margin-top: 15em;
+    background: #181A1C;
+    text-align: center;
+}
+#footer > p {
+    color: #fff;
+    margin:0;
+}
+
+#footer a{
+    color:#FECE1A;
+}
+
+#footer a:hover, #footer a:focus{
+    text-decoration: underline;
+}
+.scrollup {
+    text-align:center;
+    cursor:pointer;
+    vertical-align:middle;
+    width:39px;
+    height:39px;
+    border-radius:5px;
+    font-size:20px;
+    position:fixed;
+    bottom:30px;
+    right:20px;
+	border:1px solid #fff;
+    display:none;
+    background: #FECE1A;
+}
+.scrollup > a {
+    position:relative;
+    top:7px;
+    color:#fff;
+}
