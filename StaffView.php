@@ -6,11 +6,11 @@ include('carconnect.php');
  <form>
  	<table border="1" width=100% align="center">
  		<tr>
- 			<th>StaffID</th>
-			<th>StaffName</th>
+ 			<th>Staff ID</th>
+			<th>Staff Name</th>
 			<th>Phone</th>
 			<th>Email</th>
-			<th>StaffPassword</th>
+			<th>Staff Password</th>
 			<th>Center</th>
 			<th>Position</th>
  		</tr>
