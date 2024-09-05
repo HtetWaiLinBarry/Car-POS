@@ -11,6 +11,7 @@ if(isset($_POST['btnLogin']))
 			WHERE Email='$txtEmail'
 			AND StaffPassword='$txtPassword'
 			";
+	
 	$ret=mysqli_query($connection,$SCheck);
 	$count=mysqli_num_rows($ret);
 	$arr=mysqli_fetch_array($ret);
